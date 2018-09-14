@@ -1,6 +1,4 @@
-#Input
-#Process
-#Output
+#Created by Justin Lo Sept 14 2018
 
 
 import os
@@ -20,9 +18,3 @@ sentence = str('git commit -m "{0}"'.format(text))
 os.system(sentence)
 
 os.system("git push")
-
-
-		
-
-
-
