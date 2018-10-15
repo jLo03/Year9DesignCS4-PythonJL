@@ -5,9 +5,6 @@ import os
 
 os.system("cd desktop")
 os.system("cd CS")
-os.system("cd Programming")
-os.system("cd GitRepoYear9")
-os.system("cd Year9DesignCS4-PythonJL")
 
 text=input('What is your comment for commit: ')
 
